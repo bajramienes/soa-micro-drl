@@ -97,5 +97,3 @@ PhD Candidate in Software Engineering and Artificial Intelligence
 Faculty of Computer Science and Engineering, Ss. Cyril and Methodius University
 Skopje, North Macedonia
 Email: enes.bajrami@students.finki.ukim.mk
-```
-
