@@ -1,0 +1,16 @@
+# Ignore large result logs
+results/step_logs.jsonl
+
+# Ignore temporary and cache files
+*.log
+*.tmp
+*.cache
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
