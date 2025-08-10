@@ -1,0 +1,106 @@
+Python 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========= RESTART: C:\Users\Enes\Desktop\soa-microservices\baseline.py =========
+
+=== BASELINE RANDOM — Early Phase START ===
+Start time: 2025-08-09 12:18:17
+[BASELINE random] Early Phase: episode 10/50 (elapsed 0.5 min)
+[BASELINE random] Early Phase: episode 20/50 (elapsed 1.0 min)
+[BASELINE random] Early Phase: episode 30/50 (elapsed 1.6 min)
+[BASELINE random] Early Phase: episode 40/50 (elapsed 2.1 min)
+[BASELINE random] Early Phase: episode 50/50 (elapsed 2.6 min)
+[INFO] Saved ./results\baseline_early_random.json
+=== BASELINE RANDOM — Early Phase END (duration 2.61 min) ===
+
+=== BASELINE STATIC_SOA — Early Phase START ===
+Start time: 2025-08-09 12:20:54
+[BASELINE static_soa] Early Phase: episode 10/50 (elapsed 0.5 min)
+[BASELINE static_soa] Early Phase: episode 20/50 (elapsed 1.0 min)
+[BASELINE static_soa] Early Phase: episode 30/50 (elapsed 1.5 min)
+[BASELINE static_soa] Early Phase: episode 40/50 (elapsed 2.1 min)
+[BASELINE static_soa] Early Phase: episode 50/50 (elapsed 2.6 min)
+[INFO] Saved ./results\baseline_early_static_soa.json
+=== BASELINE STATIC_SOA — Early Phase END (duration 2.58 min) ===
+
+=== BASELINE STATIC_MICRO — Early Phase START ===
+Start time: 2025-08-09 12:23:29
+[BASELINE static_micro] Early Phase: episode 10/50 (elapsed 0.5 min)
+[BASELINE static_micro] Early Phase: episode 20/50 (elapsed 1.1 min)
+[BASELINE static_micro] Early Phase: episode 30/50 (elapsed 1.6 min)
+[BASELINE static_micro] Early Phase: episode 40/50 (elapsed 2.1 min)
+[BASELINE static_micro] Early Phase: episode 50/50 (elapsed 2.6 min)
+[INFO] Saved ./results\baseline_early_static_micro.json
+=== BASELINE STATIC_MICRO — Early Phase END (duration 2.65 min) ===
+
+=== BASELINE RANDOM — Mid Phase START ===
+Start time: 2025-08-09 12:26:08
+[BASELINE random] Mid Phase: episode 10/50 (elapsed 0.5 min)
+[BASELINE random] Mid Phase: episode 20/50 (elapsed 1.0 min)
+[BASELINE random] Mid Phase: episode 30/50 (elapsed 1.6 min)
+[BASELINE random] Mid Phase: episode 40/50 (elapsed 2.1 min)
+[BASELINE random] Mid Phase: episode 50/50 (elapsed 2.6 min)
+[INFO] Saved ./results\baseline_mid_random.json
+=== BASELINE RANDOM — Mid Phase END (duration 2.61 min) ===
+
+=== BASELINE STATIC_SOA — Mid Phase START ===
+Start time: 2025-08-09 12:28:44
+[BASELINE static_soa] Mid Phase: episode 10/50 (elapsed 0.5 min)
+[BASELINE static_soa] Mid Phase: episode 20/50 (elapsed 1.0 min)
+[BASELINE static_soa] Mid Phase: episode 30/50 (elapsed 1.5 min)
+[BASELINE static_soa] Mid Phase: episode 40/50 (elapsed 2.0 min)
+[BASELINE static_soa] Mid Phase: episode 50/50 (elapsed 2.6 min)
+[INFO] Saved ./results\baseline_mid_static_soa.json
+=== BASELINE STATIC_SOA — Mid Phase END (duration 2.56 min) ===
+
+=== BASELINE STATIC_MICRO — Mid Phase START ===
+Start time: 2025-08-09 12:31:18
+[BASELINE static_micro] Mid Phase: episode 10/50 (elapsed 0.5 min)
+[BASELINE static_micro] Mid Phase: episode 20/50 (elapsed 1.0 min)
+[BASELINE static_micro] Mid Phase: episode 30/50 (elapsed 1.6 min)
+[BASELINE static_micro] Mid Phase: episode 40/50 (elapsed 2.1 min)
+[BASELINE static_micro] Mid Phase: episode 50/50 (elapsed 2.6 min)
+[INFO] Saved ./results\baseline_mid_static_micro.json
+=== BASELINE STATIC_MICRO — Mid Phase END (duration 2.61 min) ===
+
+=== BASELINE RANDOM — Final Phase START ===
+Start time: 2025-08-09 12:33:54
+[BASELINE random] Final Phase: episode 10/50 (elapsed 0.5 min)
+[BASELINE random] Final Phase: episode 20/50 (elapsed 1.0 min)
+[BASELINE random] Final Phase: episode 30/50 (elapsed 1.5 min)
+[BASELINE random] Final Phase: episode 40/50 (elapsed 2.1 min)
+[BASELINE random] Final Phase: episode 50/50 (elapsed 2.6 min)
+[INFO] Saved ./results\baseline_final_random.json
+=== BASELINE RANDOM — Final Phase END (duration 2.58 min) ===
+
+=== BASELINE STATIC_SOA — Final Phase START ===
+Start time: 2025-08-09 12:36:29
+[BASELINE static_soa] Final Phase: episode 10/50 (elapsed 0.5 min)
+[BASELINE static_soa] Final Phase: episode 20/50 (elapsed 1.0 min)
+[BASELINE static_soa] Final Phase: episode 30/50 (elapsed 1.6 min)
+[BASELINE static_soa] Final Phase: episode 40/50 (elapsed 2.1 min)
+[BASELINE static_soa] Final Phase: episode 50/50 (elapsed 2.6 min)
+[INFO] Saved ./results\baseline_final_static_soa.json
+=== BASELINE STATIC_SOA — Final Phase END (duration 2.6 min) ===
+
+=== BASELINE STATIC_MICRO — Final Phase START ===
+Start time: 2025-08-09 12:39:05
+[BASELINE static_micro] Final Phase: episode 10/50 (elapsed 0.5 min)
+[BASELINE static_micro] Final Phase: episode 20/50 (elapsed 1.0 min)
+[BASELINE static_micro] Final Phase: episode 30/50 (elapsed 1.5 min)
+[BASELINE static_micro] Final Phase: episode 40/50 (elapsed 2.1 min)
+[BASELINE static_micro] Final Phase: episode 50/50 (elapsed 2.6 min)
+[INFO] Saved ./results\baseline_final_static_micro.json
+=== BASELINE STATIC_MICRO — Final Phase END (duration 2.57 min) ===
+
+=== BASELINE SUMMARY ===
+Early Phase  | random       | avg_reward=7.364 | 2.61 min
+Early Phase  | static_soa   | avg_reward=-5.222 | 2.58 min
+Early Phase  | static_micro | avg_reward=20.738 | 2.65 min
+Mid Phase    | random       | avg_reward=7.516 | 2.61 min
+Mid Phase    | static_soa   | avg_reward=-5.195 | 2.56 min
+Mid Phase    | static_micro | avg_reward=19.967 | 2.61 min
+Final Phase  | random       | avg_reward=7.530 | 2.58 min
+Final Phase  | static_soa   | avg_reward=-5.124 | 2.60 min
+Final Phase  | static_micro | avg_reward=20.347 | 2.57 min
+TOTAL baseline time: 23.36 min

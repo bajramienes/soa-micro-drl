@@ -1,0 +1,761 @@
+{
+  "phase": "Early Phase",
+  "policy": "static_soa",
+  "episodes": 50,
+  "avg_reward": -5.222154251156237,
+  "duration_min": 2.58,
+  "start_time": "2025-08-09 12:20:54",
+  "end_time": "2025-08-09 12:23:29",
+  "episodes_detail": [
+    {
+      "episode": 1,
+      "total_reward": -4.763722147134095,
+      "last_info": {
+        "metrics": {
+          "latency": 177.1990388910271,
+          "energy": 430.23564734242035,
+          "throughput": 73.7350781432473,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734857.5536225
+      }
+    },
+    {
+      "episode": 2,
+      "total_reward": -5.5397363047573265,
+      "last_info": {
+        "metrics": {
+          "latency": 161.77391253453195,
+          "energy": 550.964049875317,
+          "throughput": 71.08171060378199,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734860.61755
+      }
+    },
+    {
+      "episode": 3,
+      "total_reward": -6.197777065045947,
+      "last_info": {
+        "metrics": {
+          "latency": 205.99723577596168,
+          "energy": 471.50951412953725,
+          "throughput": 72.13191485558562,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734863.7752047
+      }
+    },
+    {
+      "episode": 4,
+      "total_reward": -3.663202039191482,
+      "last_info": {
+        "metrics": {
+          "latency": 181.64790227263018,
+          "energy": 389.7006441881603,
+          "throughput": 62.11486311427011,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734866.8453279
+      }
+    },
+    {
+      "episode": 5,
+      "total_reward": -4.407785875178761,
+      "last_info": {
+        "metrics": {
+          "latency": 171.07700397296333,
+          "energy": 463.3098625344685,
+          "throughput": 57.08141412937169,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734869.915581
+      }
+    },
+    {
+      "episode": 6,
+      "total_reward": -6.34538999418739,
+      "last_info": {
+        "metrics": {
+          "latency": 177.30180619702742,
+          "energy": 487.2783885608378,
+          "throughput": 58.585619070122476,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734872.9789176
+      }
+    },
+    {
+      "episode": 7,
+      "total_reward": -5.9166537535179415,
+      "last_info": {
+        "metrics": {
+          "latency": 197.2383366027152,
+          "energy": 554.6646317387083,
+          "throughput": 65.50113179126545,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734876.0912657
+      }
+    },
+    {
+      "episode": 8,
+      "total_reward": -5.855435083270171,
+      "last_info": {
+        "metrics": {
+          "latency": 194.81054136581105,
+          "energy": 493.04883560340573,
+          "throughput": 64.70999916039612,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734879.160338
+      }
+    },
+    {
+      "episode": 9,
+      "total_reward": -5.300277307620804,
+      "last_info": {
+        "metrics": {
+          "latency": 153.59069329310697,
+          "energy": 408.1413554910833,
+          "throughput": 71.647079737144,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734882.2652936
+      }
+    },
+    {
+      "episode": 10,
+      "total_reward": -4.673807645409925,
+      "last_info": {
+        "metrics": {
+          "latency": 191.96654294456488,
+          "energy": 412.52286164137246,
+          "throughput": 65.70802563587013,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734885.3790407
+      }
+    },
+    {
+      "episode": 11,
+      "total_reward": -5.085978117637327,
+      "last_info": {
+        "metrics": {
+          "latency": 193.38271134195318,
+          "energy": 557.4228425612454,
+          "throughput": 58.01916438520652,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734888.453502
+      }
+    },
+    {
+      "episode": 12,
+      "total_reward": -4.675544459599103,
+      "last_info": {
+        "metrics": {
+          "latency": 176.2577982966241,
+          "energy": 434.05390867136407,
+          "throughput": 67.63533321170698,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734891.523056
+      }
+    },
+    {
+      "episode": 13,
+      "total_reward": -5.784505230404811,
+      "last_info": {
+        "metrics": {
+          "latency": 149.08357287103135,
+          "energy": 521.1929290167293,
+          "throughput": 72.1239253754031,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734894.5909634
+      }
+    },
+    {
+      "episode": 14,
+      "total_reward": -5.839348354691679,
+      "last_info": {
+        "metrics": {
+          "latency": 203.95498076085664,
+          "energy": 534.9454262588857,
+          "throughput": 61.327164825336936,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734897.7395468
+      }
+    },
+    {
+      "episode": 15,
+      "total_reward": -5.686246189311099,
+      "last_info": {
+        "metrics": {
+          "latency": 213.12584075505282,
+          "energy": 475.7550167382367,
+          "throughput": 68.12395133360864,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734900.8207722
+      }
+    },
+    {
+      "episode": 16,
+      "total_reward": -4.704956126597042,
+      "last_info": {
+        "metrics": {
+          "latency": 189.84936919379012,
+          "energy": 528.4330662789987,
+          "throughput": 55.41730357454763,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734903.8847516
+      }
+    },
+    {
+      "episode": 17,
+      "total_reward": -4.978124852240935,
+      "last_info": {
+        "metrics": {
+          "latency": 192.41957436172214,
+          "energy": 414.5684294821125,
+          "throughput": 75.44510412109892,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734906.961033
+      }
+    },
+    {
+      "episode": 18,
+      "total_reward": -5.371942817147873,
+      "last_info": {
+        "metrics": {
+          "latency": 215.19725324332927,
+          "energy": 435.77847868762115,
+          "throughput": 74.18595411390284,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734910.1173937
+      }
+    },
+    {
+      "episode": 19,
+      "total_reward": -4.125327343231678,
+      "last_info": {
+        "metrics": {
+          "latency": 150.4496053608992,
+          "energy": 466.31934620797,
+          "throughput": 54.10837533617979,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734913.2051332
+      }
+    },
+    {
+      "episode": 20,
+      "total_reward": -5.113258407392324,
+      "last_info": {
+        "metrics": {
+          "latency": 165.04639432810038,
+          "energy": 414.4841617727485,
+          "throughput": 76.66274408520528,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734916.333704
+      }
+    },
+    {
+      "episode": 21,
+      "total_reward": -4.482654543704244,
+      "last_info": {
+        "metrics": {
+          "latency": 149.32103911686858,
+          "energy": 413.80875949471323,
+          "throughput": 58.88902884062933,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734919.4548252
+      }
+    },
+    {
+      "episode": 22,
+      "total_reward": -5.308697724147771,
+      "last_info": {
+        "metrics": {
+          "latency": 151.17850821840344,
+          "energy": 424.4932538677606,
+          "throughput": 73.25524566493286,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734922.5180113
+      }
+    },
+    {
+      "episode": 23,
+      "total_reward": -4.661949964631092,
+      "last_info": {
+        "metrics": {
+          "latency": 211.96429762131038,
+          "energy": 520.8662207562534,
+          "throughput": 64.58197093329234,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734925.590567
+      }
+    },
+    {
+      "episode": 24,
+      "total_reward": -5.323622763937762,
+      "last_info": {
+        "metrics": {
+          "latency": 205.1540504266441,
+          "energy": 542.0291195245035,
+          "throughput": 67.16892452310714,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734928.7040462
+      }
+    },
+    {
+      "episode": 25,
+      "total_reward": -5.477558442938429,
+      "last_info": {
+        "metrics": {
+          "latency": 173.85345124138945,
+          "energy": 504.6375489701386,
+          "throughput": 76.46600789111643,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734931.7666614
+      }
+    },
+    {
+      "episode": 26,
+      "total_reward": -5.325369542906426,
+      "last_info": {
+        "metrics": {
+          "latency": 147.96628938784926,
+          "energy": 498.69370080801684,
+          "throughput": 71.31745014996264,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734934.8345795
+      }
+    },
+    {
+      "episode": 27,
+      "total_reward": -5.356579235612032,
+      "last_info": {
+        "metrics": {
+          "latency": 200.00678802940325,
+          "energy": 540.4705698192187,
+          "throughput": 78.75848811271484,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734937.903191
+      }
+    },
+    {
+      "episode": 28,
+      "total_reward": -6.072356082560727,
+      "last_info": {
+        "metrics": {
+          "latency": 206.5553064171624,
+          "energy": 462.07506392067035,
+          "throughput": 72.64142898215269,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734940.9688857
+      }
+    },
+    {
+      "episode": 29,
+      "total_reward": -5.4704487705809095,
+      "last_info": {
+        "metrics": {
+          "latency": 182.6947034387667,
+          "energy": 460.32923624375405,
+          "throughput": 57.736610153289895,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734944.1337066
+      }
+    },
+    {
+      "episode": 30,
+      "total_reward": -5.38353421128381,
+      "last_info": {
+        "metrics": {
+          "latency": 193.36514038465384,
+          "energy": 531.4642526318357,
+          "throughput": 62.69943460006459,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734947.201243
+      }
+    },
+    {
+      "episode": 31,
+      "total_reward": -5.38267761847389,
+      "last_info": {
+        "metrics": {
+          "latency": 214.90598813678034,
+          "energy": 421.0949781627325,
+          "throughput": 53.40154314263263,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734950.3144841
+      }
+    },
+    {
+      "episode": 32,
+      "total_reward": -4.823672781694053,
+      "last_info": {
+        "metrics": {
+          "latency": 190.49884849028547,
+          "energy": 410.0408554733832,
+          "throughput": 68.97840159520973,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734953.4218538
+      }
+    },
+    {
+      "episode": 33,
+      "total_reward": -5.9075629057099395,
+      "last_info": {
+        "metrics": {
+          "latency": 180.9610695940683,
+          "energy": 509.69096731938464,
+          "throughput": 53.52082743735914,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734956.4946544
+      }
+    },
+    {
+      "episode": 34,
+      "total_reward": -5.620709824629802,
+      "last_info": {
+        "metrics": {
+          "latency": 213.2613375799105,
+          "energy": 539.6428195285455,
+          "throughput": 72.29287732115026,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734959.5591984
+      }
+    },
+    {
+      "episode": 35,
+      "total_reward": -4.4219163285314504,
+      "last_info": {
+        "metrics": {
+          "latency": 177.8851709821603,
+          "energy": 442.20296195042073,
+          "throughput": 63.896661692117014,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734962.6429644
+      }
+    },
+    {
+      "episode": 36,
+      "total_reward": -5.580370315880913,
+      "last_info": {
+        "metrics": {
+          "latency": 216.7773406542143,
+          "energy": 419.237675555445,
+          "throughput": 60.34168018674575,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734965.7193732
+      }
+    },
+    {
+      "episode": 37,
+      "total_reward": -5.307678257759477,
+      "last_info": {
+        "metrics": {
+          "latency": 203.25355427864432,
+          "energy": 430.43856957520876,
+          "throughput": 64.74182020990972,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734968.8176668
+      }
+    },
+    {
+      "episode": 38,
+      "total_reward": -4.75347174967418,
+      "last_info": {
+        "metrics": {
+          "latency": 142.29693451099317,
+          "energy": 441.7645171454426,
+          "throughput": 52.5150128088066,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734971.8897245
+      }
+    },
+    {
+      "episode": 39,
+      "total_reward": -5.042794348525407,
+      "last_info": {
+        "metrics": {
+          "latency": 216.993017170453,
+          "energy": 515.8440670757661,
+          "throughput": 53.465259933061084,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734974.9571512
+      }
+    },
+    {
+      "episode": 40,
+      "total_reward": -5.228018052951816,
+      "last_info": {
+        "metrics": {
+          "latency": 159.83756583907353,
+          "energy": 423.89074938597025,
+          "throughput": 66.96736775197559,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734978.1157432
+      }
+    },
+    {
+      "episode": 41,
+      "total_reward": -5.634318982915951,
+      "last_info": {
+        "metrics": {
+          "latency": 151.47757931143158,
+          "energy": 458.0216814955799,
+          "throughput": 60.33666082387833,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734981.1877093
+      }
+    },
+    {
+      "episode": 42,
+      "total_reward": -5.572496699718877,
+      "last_info": {
+        "metrics": {
+          "latency": 189.76504453763664,
+          "energy": 510.2196532733476,
+          "throughput": 58.24112934294237,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734984.2607977
+      }
+    },
+    {
+      "episode": 43,
+      "total_reward": -4.649359646204541,
+      "last_info": {
+        "metrics": {
+          "latency": 180.86280088946222,
+          "energy": 384.25766949001587,
+          "throughput": 69.8824690824352,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734987.3302228
+      }
+    },
+    {
+      "episode": 44,
+      "total_reward": -5.2830917093288345,
+      "last_info": {
+        "metrics": {
+          "latency": 163.01442985857847,
+          "energy": 391.3226278837054,
+          "throughput": 71.48068127299334,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734990.4540782
+      }
+    },
+    {
+      "episode": 45,
+      "total_reward": -5.352628354753685,
+      "last_info": {
+        "metrics": {
+          "latency": 215.36415680812138,
+          "energy": 477.918746005745,
+          "throughput": 79.73103308314039,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734993.616928
+      }
+    },
+    {
+      "episode": 46,
+      "total_reward": -4.425394604859163,
+      "last_info": {
+        "metrics": {
+          "latency": 161.28718613061562,
+          "energy": 546.2440697129878,
+          "throughput": 78.34951814940632,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734996.6789804
+      }
+    },
+    {
+      "episode": 47,
+      "total_reward": -5.448791096474195,
+      "last_info": {
+        "metrics": {
+          "latency": 192.02879320602955,
+          "energy": 405.05701328079283,
+          "throughput": 78.9735348849351,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754734999.7943625
+      }
+    },
+    {
+      "episode": 48,
+      "total_reward": -6.171818209049183,
+      "last_info": {
+        "metrics": {
+          "latency": 178.02709194680943,
+          "energy": 545.9189639358606,
+          "throughput": 57.79755138731169,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754735002.9115021
+      }
+    },
+    {
+      "episode": 49,
+      "total_reward": -4.640051129840997,
+      "last_info": {
+        "metrics": {
+          "latency": 212.90357623576486,
+          "energy": 505.3714752132364,
+          "throughput": 75.0735498432222,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754735005.9742756
+      }
+    },
+    {
+      "episode": 50,
+      "total_reward": -4.9690995449646085,
+      "last_info": {
+        "metrics": {
+          "latency": 164.92159905410318,
+          "energy": 477.2440715547055,
+          "throughput": 51.346644399122674,
+          "choice": "SOA"
+        },
+        "action": 0,
+        "step": 50,
+        "ts": 1754735009.0872774
+      }
+    }
+  ]
+}

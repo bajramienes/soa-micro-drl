@@ -1,0 +1,1102 @@
+[
+  {
+    "episode": 1,
+    "total_reward": 21.33560238406062,
+    "last_info": {
+      "metrics": {
+        "latency": 148.200827211498,
+        "energy": 488.0990990482027,
+        "throughput": 76.62958160207663,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740632.2481577,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.5809828639030457,
+        0.6654443144798279,
+        0.36212363839149475,
+        0.4407917261123657
+      ]
+    }
+  },
+  {
+    "episode": 2,
+    "total_reward": 19.0752683095634,
+    "last_info": {
+      "metrics": {
+        "latency": 116.89450534017507,
+        "energy": 378.3194902560144,
+        "throughput": 96.20356663592062,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740635.3902016,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.6875284314155579,
+        0.45150795578956604,
+        0.4452632963657379,
+        0.8919172883033752
+      ]
+    }
+  },
+  {
+    "episode": 3,
+    "total_reward": 21.531603360548615,
+    "last_info": {
+      "metrics": {
+        "latency": 80.65765815622919,
+        "energy": 366.96692312368066,
+        "throughput": 88.96976891910047,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740638.5546014,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.9620530009269714,
+        0.27860671281814575,
+        0.9228798151016235,
+        0.38758590817451477
+      ]
+    }
+  },
+  {
+    "episode": 4,
+    "total_reward": 21.10628606379032,
+    "last_info": {
+      "metrics": {
+        "latency": 94.92209288560566,
+        "energy": 352.4930303007749,
+        "throughput": 78.91329833415273,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740641.7095692,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.9909411668777466,
+        0.4585476219654083,
+        0.9555739760398865,
+        0.10815086215734482
+      ]
+    }
+  },
+  {
+    "episode": 5,
+    "total_reward": 19.379960484802723,
+    "last_info": {
+      "metrics": {
+        "latency": 108.05011874655128,
+        "energy": 388.58084660547104,
+        "throughput": 95.04125422475798,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740644.8592355,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.6530019640922546,
+        0.20826740562915802,
+        0.5547770857810974,
+        0.7750692367553711
+      ]
+    }
+  },
+  {
+    "episode": 6,
+    "total_reward": 20.465805172920227,
+    "last_info": {
+      "metrics": {
+        "latency": 94.03403624393735,
+        "energy": 434.5026308948403,
+        "throughput": 108.74801609729855,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740648.0050714,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.4170166850090027,
+        0.9546552896499634,
+        0.3395947515964508,
+        0.9313264489173889
+      ]
+    }
+  },
+  {
+    "episode": 7,
+    "total_reward": 17.162263721227646,
+    "last_info": {
+      "metrics": {
+        "latency": 136.20131502942147,
+        "energy": 454.1130904524929,
+        "throughput": 91.72922192174599,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740651.1590006,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.5774773359298706,
+        0.7633758187294006,
+        0.2498028576374054,
+        0.6716285943984985
+      ]
+    }
+  },
+  {
+    "episode": 8,
+    "total_reward": 19.191084392368793,
+    "last_info": {
+      "metrics": {
+        "latency": 109.99853807692622,
+        "energy": 390.61421645460973,
+        "throughput": 85.49627309084576,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740654.326315,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.41014280915260315,
+        0.5206418037414551,
+        0.6210289001464844,
+        0.2902847230434418
+      ]
+    }
+  },
+  {
+    "episode": 9,
+    "total_reward": 18.961075395345688,
+    "last_info": {
+      "metrics": {
+        "latency": 117.53836617236128,
+        "energy": 330.07688037838534,
+        "throughput": 94.24406791858934,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740657.4614785,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.5411646366119385,
+        0.09400561451911926,
+        0.7457544207572937,
+        0.05031676962971687
+      ]
+    }
+  },
+  {
+    "episode": 10,
+    "total_reward": 21.437920302152634,
+    "last_info": {
+      "metrics": {
+        "latency": 93.27712800936817,
+        "energy": 363.0867091193426,
+        "throughput": 108.01866758269921,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740660.6088016,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.4443581700325012,
+        0.7945379018783569,
+        0.40622174739837646,
+        0.22153645753860474
+      ]
+    }
+  },
+  {
+    "episode": 11,
+    "total_reward": 20.2819352298975,
+    "last_info": {
+      "metrics": {
+        "latency": 127.97345938192315,
+        "energy": 387.2496989657735,
+        "throughput": 85.25315513841213,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740663.8377664,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.6219083070755005,
+        0.5398797988891602,
+        0.4906924366950989,
+        0.43114688992500305
+      ]
+    }
+  },
+  {
+    "episode": 12,
+    "total_reward": 20.862425211817026,
+    "last_info": {
+      "metrics": {
+        "latency": 92.67644565528184,
+        "energy": 422.43417865511174,
+        "throughput": 108.33165370798497,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740666.9936826,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.3228658437728882,
+        0.1994861513376236,
+        0.3706474006175995,
+        0.7971268892288208
+      ]
+    }
+  },
+  {
+    "episode": 13,
+    "total_reward": 20.130143865942955,
+    "last_info": {
+      "metrics": {
+        "latency": 142.67411940069164,
+        "energy": 424.25556183148444,
+        "throughput": 96.1360921016016,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740670.1540418,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.5684012174606323,
+        0.769696056842804,
+        0.2780322730541229,
+        0.7197673916816711
+      ]
+    }
+  },
+  {
+    "episode": 14,
+    "total_reward": 19.818948436528444,
+    "last_info": {
+      "metrics": {
+        "latency": 142.48504168369507,
+        "energy": 435.808141028034,
+        "throughput": 109.53865712185006,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740673.3071072,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.6969598531723022,
+        0.30348774790763855,
+        0.9719337224960327,
+        0.5057438611984253
+      ]
+    }
+  },
+  {
+    "episode": 15,
+    "total_reward": 20.787648413330317,
+    "last_info": {
+      "metrics": {
+        "latency": 121.51266809834527,
+        "energy": 389.9387668924793,
+        "throughput": 86.52548805451525,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740676.4462776,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.6537701487541199,
+        0.5594136118888855,
+        0.6926698684692383,
+        0.4980906546115875
+      ]
+    }
+  },
+  {
+    "episode": 16,
+    "total_reward": 21.5884031355381,
+    "last_info": {
+      "metrics": {
+        "latency": 143.07955163308168,
+        "energy": 444.52092637701,
+        "throughput": 81.39953442610707,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740679.6017907,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.3959583044052124,
+        0.03021349012851715,
+        0.2864801585674286,
+        0.8612449169158936
+      ]
+    }
+  },
+  {
+    "episode": 17,
+    "total_reward": 17.575755797792226,
+    "last_info": {
+      "metrics": {
+        "latency": 112.60334442135402,
+        "energy": 426.09961219121783,
+        "throughput": 74.26945590533846,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740682.7647338,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.7948695421218872,
+        0.44744375348091125,
+        0.49332696199417114,
+        0.6995415687561035
+      ]
+    }
+  },
+  {
+    "episode": 18,
+    "total_reward": 21.186120882630348,
+    "last_info": {
+      "metrics": {
+        "latency": 107.31573266578725,
+        "energy": 410.5719531601892,
+        "throughput": 78.43154825581571,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740685.900679,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.2827438414096832,
+        0.4586001932621002,
+        0.9561316967010498,
+        0.765638530254364
+      ]
+    }
+  },
+  {
+    "episode": 19,
+    "total_reward": 17.005154605954885,
+    "last_info": {
+      "metrics": {
+        "latency": 101.0829282291456,
+        "energy": 357.377507685872,
+        "throughput": 99.17714206606243,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740689.0585053,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.9140309691429138,
+        0.4397515058517456,
+        0.15908856689929962,
+        0.7854059934616089
+      ]
+    }
+  },
+  {
+    "episode": 20,
+    "total_reward": 18.742933087050915,
+    "last_info": {
+      "metrics": {
+        "latency": 119.94980009261968,
+        "energy": 303.2549646300775,
+        "throughput": 100.8000329163999,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740692.2155566,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.763163149356842,
+        0.423475444316864,
+        0.28796863555908203,
+        0.8133442401885986
+      ]
+    }
+  },
+  {
+    "episode": 21,
+    "total_reward": 19.480915516614914,
+    "last_info": {
+      "metrics": {
+        "latency": 93.5811008649238,
+        "energy": 459.5466488933522,
+        "throughput": 94.2274430288237,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740695.3951821,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.17120744287967682,
+        0.09742707759141922,
+        0.4653554856777191,
+        0.5059850811958313
+      ]
+    }
+  },
+  {
+    "episode": 22,
+    "total_reward": 21.23972612246871,
+    "last_info": {
+      "metrics": {
+        "latency": 102.29071476841537,
+        "energy": 396.7665608805094,
+        "throughput": 109.64049573853582,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740698.5478876,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.022674569860100746,
+        0.09468533843755722,
+        0.29548314213752747,
+        0.2129961997270584
+      ]
+    }
+  },
+  {
+    "episode": 23,
+    "total_reward": 19.476147636771202,
+    "last_info": {
+      "metrics": {
+        "latency": 112.17492191146815,
+        "energy": 442.04928167124837,
+        "throughput": 71.8420306879823,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740701.6984057,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.8013554215431213,
+        0.7458415031433105,
+        0.26230528950691223,
+        0.814540684223175
+      ]
+    }
+  },
+  {
+    "episode": 24,
+    "total_reward": 22.59949764609337,
+    "last_info": {
+      "metrics": {
+        "latency": 94.65801807096769,
+        "energy": 306.1566034574414,
+        "throughput": 84.5381295906206,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740704.8562362,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.230455219745636,
+        0.16263462603092194,
+        0.9150522947311401,
+        0.26376214623451233
+      ]
+    }
+  },
+  {
+    "episode": 25,
+    "total_reward": 22.951224878430367,
+    "last_info": {
+      "metrics": {
+        "latency": 86.23516818783534,
+        "energy": 358.21647684709643,
+        "throughput": 89.04234310514484,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740707.993965,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.899925172328949,
+        0.45993608236312866,
+        0.12119761854410172,
+        0.3679006099700928
+      ]
+    }
+  },
+  {
+    "episode": 26,
+    "total_reward": 23.221210181713104,
+    "last_info": {
+      "metrics": {
+        "latency": 129.5327678094789,
+        "energy": 485.0590480110964,
+        "throughput": 83.70159234412647,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740711.1479373,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.6711224317550659,
+        0.041774965822696686,
+        0.3463977575302124,
+        0.6882960200309753
+      ]
+    }
+  },
+  {
+    "episode": 27,
+    "total_reward": 20.784532014280558,
+    "last_info": {
+      "metrics": {
+        "latency": 130.60921169944874,
+        "energy": 488.5230890554501,
+        "throughput": 70.73185458947,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740714.3074481,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.3421773314476013,
+        0.15228912234306335,
+        0.2690773904323578,
+        0.8011119961738586
+      ]
+    }
+  },
+  {
+    "episode": 28,
+    "total_reward": 17.73699216917157,
+    "last_info": {
+      "metrics": {
+        "latency": 144.92281286473826,
+        "energy": 300.3260444410613,
+        "throughput": 81.58788047776548,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740717.4532661,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.3059472143650055,
+        0.903847336769104,
+        0.8474173545837402,
+        0.09404551982879639
+      ]
+    }
+  },
+  {
+    "episode": 29,
+    "total_reward": 19.392026737332344,
+    "last_info": {
+      "metrics": {
+        "latency": 85.91310222970908,
+        "energy": 458.9159305247035,
+        "throughput": 106.21352171599816,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740720.5969076,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.7619240880012512,
+        0.6831526160240173,
+        0.9484649300575256,
+        0.31319066882133484
+      ]
+    }
+  },
+  {
+    "episode": 30,
+    "total_reward": 19.59967890754342,
+    "last_info": {
+      "metrics": {
+        "latency": 94.59421060510111,
+        "energy": 458.84438984494955,
+        "throughput": 101.16733697733339,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740723.7421167,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.4514005780220032,
+        0.37752586603164673,
+        0.6530784368515015,
+        0.8963618874549866
+      ]
+    }
+  },
+  {
+    "episode": 31,
+    "total_reward": 18.351342267356813,
+    "last_info": {
+      "metrics": {
+        "latency": 148.30601687561466,
+        "energy": 468.7424684751604,
+        "throughput": 71.46046286499858,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740726.9239218,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.16623374819755554,
+        0.6456112861633301,
+        0.30068397521972656,
+        0.9902420043945312
+      ]
+    }
+  },
+  {
+    "episode": 32,
+    "total_reward": 21.367739982903004,
+    "last_info": {
+      "metrics": {
+        "latency": 125.34491866662805,
+        "energy": 438.82171884390414,
+        "throughput": 87.06379760008419,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740730.076257,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.6561097502708435,
+        0.8589824438095093,
+        0.5145018100738525,
+        0.42764273285865784
+      ]
+    }
+  },
+  {
+    "episode": 33,
+    "total_reward": 20.77032344788313,
+    "last_info": {
+      "metrics": {
+        "latency": 94.73141205779744,
+        "energy": 309.6959585774731,
+        "throughput": 102.01705754321205,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740733.2283788,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.7520002126693726,
+        0.1998593658208847,
+        0.4638877213001251,
+        0.4271986186504364
+      ]
+    }
+  },
+  {
+    "episode": 34,
+    "total_reward": 20.711765095591545,
+    "last_info": {
+      "metrics": {
+        "latency": 136.2683903485402,
+        "energy": 453.6611748758013,
+        "throughput": 71.01293327982619,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740736.3697646,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.5190396904945374,
+        0.8602235913276672,
+        0.4969922602176666,
+        0.825751006603241
+      ]
+    }
+  },
+  {
+    "episode": 35,
+    "total_reward": 19.76778367906809,
+    "last_info": {
+      "metrics": {
+        "latency": 96.80279234561618,
+        "energy": 304.98739314149407,
+        "throughput": 84.84983372802307,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740739.5303926,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.16418679058551788,
+        0.09944474697113037,
+        0.691294252872467,
+        0.137015700340271
+      ]
+    }
+  },
+  {
+    "episode": 36,
+    "total_reward": 19.051229931414127,
+    "last_info": {
+      "metrics": {
+        "latency": 115.88432575079486,
+        "energy": 464.69404821980413,
+        "throughput": 78.06898068111197,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740742.6874816,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.3120642602443695,
+        0.6463149189949036,
+        0.47914919257164,
+        0.4773983061313629
+      ]
+    }
+  },
+  {
+    "episode": 37,
+    "total_reward": 22.926205947995186,
+    "last_info": {
+      "metrics": {
+        "latency": 100.4257164394777,
+        "energy": 390.59912733864235,
+        "throughput": 98.8392871463426,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740745.8244805,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.9155013561248779,
+        0.42362168431282043,
+        0.8748601675033569,
+        0.531416118144989
+      ]
+    }
+  },
+  {
+    "episode": 38,
+    "total_reward": 19.828817427158356,
+    "last_info": {
+      "metrics": {
+        "latency": 118.4306125669819,
+        "energy": 487.66290792994846,
+        "throughput": 92.1497603263349,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740748.986527,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.25160208344459534,
+        0.60764080286026,
+        0.31230485439300537,
+        0.6218597292900085
+      ]
+    }
+  },
+  {
+    "episode": 39,
+    "total_reward": 20.10361287742853,
+    "last_info": {
+      "metrics": {
+        "latency": 109.30436964521525,
+        "energy": 407.13530227189517,
+        "throughput": 104.46367447774142,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740752.1366887,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.3443675935268402,
+        0.17994725704193115,
+        0.7594698071479797,
+        0.6637336611747742
+      ]
+    }
+  },
+  {
+    "episode": 40,
+    "total_reward": 21.600548431277275,
+    "last_info": {
+      "metrics": {
+        "latency": 145.82248477254433,
+        "energy": 495.4022230890671,
+        "throughput": 107.39592477435546,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740755.3016098,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.9875202775001526,
+        0.6424639225006104,
+        0.07596990466117859,
+        0.8825353980064392
+      ]
+    }
+  },
+  {
+    "episode": 41,
+    "total_reward": 21.32378337532282,
+    "last_info": {
+      "metrics": {
+        "latency": 113.94263545893531,
+        "energy": 369.4348307156731,
+        "throughput": 91.14758875194863,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740758.4618058,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.4467962682247162,
+        0.9473008513450623,
+        0.4616515040397644,
+        0.1752484142780304
+      ]
+    }
+  },
+  {
+    "episode": 42,
+    "total_reward": 17.623350135982037,
+    "last_info": {
+      "metrics": {
+        "latency": 136.14157943360186,
+        "energy": 444.7491120653001,
+        "throughput": 104.8686593724029,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740761.6124096,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.14038707315921783,
+        0.8713890314102173,
+        0.42503246665000916,
+        0.2776489853858948
+      ]
+    }
+  },
+  {
+    "episode": 43,
+    "total_reward": 20.511470541357994,
+    "last_info": {
+      "metrics": {
+        "latency": 135.05297102447295,
+        "energy": 397.23750004570263,
+        "throughput": 109.99432070402088,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740764.7578058,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.4340849816799164,
+        0.9892301559448242,
+        0.7667489647865295,
+        0.6514206528663635
+      ]
+    }
+  },
+  {
+    "episode": 44,
+    "total_reward": 20.353426482528448,
+    "last_info": {
+      "metrics": {
+        "latency": 114.04261202040621,
+        "energy": 449.79711633232114,
+        "throughput": 71.05569351498045,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740767.9111881,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.9242948889732361,
+        0.0035789443645626307,
+        0.462086945772171,
+        0.3580033481121063
+      ]
+    }
+  },
+  {
+    "episode": 45,
+    "total_reward": 21.817121155560017,
+    "last_info": {
+      "metrics": {
+        "latency": 126.02714912605853,
+        "energy": 306.38808350543644,
+        "throughput": 100.42789920250958,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740771.081177,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.5285318493843079,
+        0.8256913423538208,
+        0.19350051879882812,
+        0.35293206572532654
+      ]
+    }
+  },
+  {
+    "episode": 46,
+    "total_reward": 20.692221377044916,
+    "last_info": {
+      "metrics": {
+        "latency": 117.20982226604266,
+        "energy": 340.7439119744375,
+        "throughput": 102.18882557885516,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740774.247258,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.667253851890564,
+        0.2867071032524109,
+        0.5847591161727905,
+        0.3430005609989166
+      ]
+    }
+  },
+  {
+    "episode": 47,
+    "total_reward": 20.607682816684246,
+    "last_info": {
+      "metrics": {
+        "latency": 125.53199166108647,
+        "energy": 346.6620226657469,
+        "throughput": 81.56246670770284,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740777.3892806,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.12634365260601044,
+        0.6251551508903503,
+        0.9655444025993347,
+        0.7890384197235107
+      ]
+    }
+  },
+  {
+    "episode": 48,
+    "total_reward": 19.951045021414757,
+    "last_info": {
+      "metrics": {
+        "latency": 105.85005756872197,
+        "energy": 444.8464863295535,
+        "throughput": 106.48609965200279,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740780.537419,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.2469499409198761,
+        0.6597543954849243,
+        0.9501551389694214,
+        0.5639254450798035
+      ]
+    }
+  },
+  {
+    "episode": 49,
+    "total_reward": 20.525334011763334,
+    "last_info": {
+      "metrics": {
+        "latency": 145.143687891125,
+        "energy": 441.3975472316829,
+        "throughput": 74.1976248187099,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740783.6885822,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.043302085250616074,
+        0.6347178220748901,
+        0.17356076836585999,
+        0.6384879946708679
+      ]
+    }
+  },
+  {
+    "episode": 50,
+    "total_reward": 21.77022896707058,
+    "last_info": {
+      "metrics": {
+        "latency": 88.07876093914392,
+        "energy": 466.1110289109545,
+        "throughput": 91.47405855843759,
+        "choice": "Microservices"
+      },
+      "action": 1,
+      "step": 50,
+      "ts": 1754740786.829643,
+      "TimeLimit.truncated": false,
+      "terminal_observation": [
+        0.09292685240507126,
+        0.3020086884498596,
+        0.6560238599777222,
+        0.11451046913862228
+      ]
+    }
+  }
+]

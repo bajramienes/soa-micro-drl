@@ -1,0 +1,65 @@
+{
+  "phases": [
+    {
+      "phase": "Early Phase",
+      "policy": "random",
+      "avg_reward": 7.364323561071749,
+      "duration_min": 2.61
+    },
+    {
+      "phase": "Early Phase",
+      "policy": "static_soa",
+      "avg_reward": -5.222154251156237,
+      "duration_min": 2.58
+    },
+    {
+      "phase": "Early Phase",
+      "policy": "static_micro",
+      "avg_reward": 20.73752723152415,
+      "duration_min": 2.65
+    },
+    {
+      "phase": "Mid Phase",
+      "policy": "random",
+      "avg_reward": 7.515816376219613,
+      "duration_min": 2.61
+    },
+    {
+      "phase": "Mid Phase",
+      "policy": "static_soa",
+      "avg_reward": -5.194681873106683,
+      "duration_min": 2.56
+    },
+    {
+      "phase": "Mid Phase",
+      "policy": "static_micro",
+      "avg_reward": 19.966580233305557,
+      "duration_min": 2.61
+    },
+    {
+      "phase": "Final Phase",
+      "policy": "random",
+      "avg_reward": 7.529647179066246,
+      "duration_min": 2.58
+    },
+    {
+      "phase": "Final Phase",
+      "policy": "static_soa",
+      "avg_reward": -5.1237389218700455,
+      "duration_min": 2.6
+    },
+    {
+      "phase": "Final Phase",
+      "policy": "static_micro",
+      "avg_reward": 20.346779269174284,
+      "duration_min": 2.57
+    }
+  ],
+  "policies": [
+    "random",
+    "static_soa",
+    "static_micro"
+  ],
+  "episodes_per_phase": 50,
+  "total_duration_min": 23.36
+}
